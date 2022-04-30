@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25e1efc0-6429-4e72-a542-d6fe0f5a0122": {
+      "ProjectGuid": "25e1efc0-6429-4e72-a542-d6fe0f5a0122",
+      "DisplayName": "gdi_test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
